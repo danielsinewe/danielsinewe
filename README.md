@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Marketing Automation
 - 💞️ I’m looking to collaborate on building micro SaaS
 - 📫 How to reach me x.com/danielsinewe
-- ⚡ Fun fact: I'm funny.
