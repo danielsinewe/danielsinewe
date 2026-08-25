@@ -2,4 +2,5 @@
 - 👀 I’m interested in #SalesTech
 - 🌱 I’m currently learning Marketing Automation
 - 💞️ I’m looking to collaborate on building micro SaaS
+- 🦶 Building [1Footer](https://1footer.com) to manage crawlable footers across multiple websites
 - 📫 How to reach me x.com/danielsinewe
