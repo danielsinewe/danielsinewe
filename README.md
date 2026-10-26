@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning Marketing Automation
 - 💞️ I’m looking to collaborate on building micro SaaS
 - 🦶 Building [1Footer](https://1footer.com) to manage crawlable footers across multiple websites — see the [footer optimization checklist](https://app.1footer.com/footer-optimization)
+- 📊 Free [sales-pipeline template for founders and small teams](https://daniel-sinewe-products.danielsinewe.chatgpt.site/sales-pipeline-template?utm_source=github&utm_medium=referral&utm_campaign=github_profile) — five stages, follow-up guidance, and a CSV for Excel or Google Sheets. No signup.
 - 📫 How to reach me x.com/danielsinewe
