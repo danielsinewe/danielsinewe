@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning Marketing Automation
 - 💞️ I’m looking to collaborate on building micro SaaS
 - 🦶 Building [1Footer](https://1footer.com) to manage crawlable footers across multiple websites — see the [footer optimization checklist](https://app.1footer.com/footer-optimization)
+- 🛠️ Free tools for your next launch: [generate an HTML footer](https://1footer.com/tools/footer-generator?utm_source=github&utm_medium=referral&utm_campaign=free_tools_2026_11&utm_content=github_profile_generator), [tag a footer link with UTMs](https://1footer.com/tools/utm-link-builder?utm_source=github&utm_medium=referral&utm_campaign=free_tools_2026_11&utm_content=github_profile_utm), or [check your footer](https://1footer.com/tools/footer-checker?utm_source=github&utm_medium=referral&utm_campaign=free_tools_2026_11&utm_content=github_profile_checker). No signup required. [Watch the 22-second demo](https://1footer.com/tools?utm_source=github&utm_medium=referral&utm_campaign=free_tools_2026_11&utm_content=github_profile_demo#demo).
 - 📊 Free [sales-pipeline template for founders and small teams](https://daniel-sinewe-products.danielsinewe.chatgpt.site/sales-pipeline-template?utm_source=github&utm_medium=referral&utm_campaign=github_profile) — five stages, follow-up guidance, and a CSV for Excel or Google Sheets. No signup.
 - 📫 How to reach me x.com/danielsinewe
